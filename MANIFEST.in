@@ -1,2 +1,2 @@
-include cbpi4-Flowmeter/config.yaml
-recursive-include cbpi4-Flowmeter/static *
+include cbpi4-Flowmeter-MCP3008/config.yaml
+recursive-include cbpi4-Flowmeter-MCP3008/static *
