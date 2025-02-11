@@ -1,4 +1,4 @@
-# CraftBeerPi4 FLowmeter Sensor / Step Plugin
+# CraftBeerPi4 FLowmeter MCP3008 Sensor / Step Plugin
 
 *For recently added VolumeSensor functionality scroll down*
 
@@ -66,7 +66,7 @@ Actions:
 
 
 ## Changelog:
-
+- 11.02.25: (0.0.0) Rolled version to modify for Two Flow and Temp sensors integrated with an MCP3008
 - 10.06.23: (0.0.6) bump version to release
 - 14.05.23: (0.0.6.rc1) added simple VolumeSensor and cbpi4 requirement
 - 14.04.23: (0.0.5.a2) fixed bug in parameter generation
